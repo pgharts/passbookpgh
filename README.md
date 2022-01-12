@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/lgleasain/passbook.png)](https://travis-ci.org/lgleasain/passbook)
 
-# passbook
+# passbookpgh
 
 The passbook gem let's you create a pkpass for passbook in iOS 14+ (this gem is forked/cloned from [frozon/passbook](https://github.com/frozon/passbook))
 
