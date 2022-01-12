@@ -2,7 +2,7 @@
 
 # passbook
 
-The passbook gem let's you create a pkpass for passbook in iOS 14+ (this gem is forked/cloned from frozon/passbook)
+The passbook gem let's you create a pkpass for passbook in iOS 14+ (this gem is forked/cloned from [frozon/passbook](https://github.com/frozon/passbook))
 
 ## Installation
 
