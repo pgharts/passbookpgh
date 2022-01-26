@@ -5,15 +5,15 @@
 # stub: passbook 0.4.4 ruby lib
 
 Gem::Specification.new do |s|
-  s.name = "passbook"
-  s.version = "0.4.4"
+  s.name = "passbookpgh"
+  s.version = "0.4.5"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib"]
-  s.authors = ["Thomas Lauro", "Lance Gleason"]
-  s.date = "2017-02-20"
+  s.authors = ["Thomas Lauro", "Lance Gleason", "Danielle Greaves"]
+  s.date = "2022-01-26"
   s.description = "This gem allows you to create IOS Passbooks.  Unlike some,  this works with Rails but does not require it."
-  s.email = ["thomas@lauro.fr", "lgleason@polyglotprogramminginc.com"]
+  s.email = ["thomas@lauro.fr", "lgleason@polyglotprogramminginc.com", "greaves@trustarts.org"]
   s.executables = ["pk"]
   s.extra_rdoc_files = [
     "LICENSE",
@@ -60,7 +60,7 @@ Gem::Specification.new do |s|
     "spec/lib/rack/passbook_rack_spec.rb",
     "spec/spec_helper.rb"
   ]
-  s.homepage = "http://github.com/frozon/passbook"
+  s.homepage = "https://github.com/pgharts/passbookpgh"
   s.licenses = ["MIT"]
   s.rubygems_version = "2.4.8"
   s.summary = "A IOS Passbook generator."
