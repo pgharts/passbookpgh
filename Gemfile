@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in passbook.gemspec
+# Specify your gem's dependencies in passbookpgh.gemspec
 gem 'rubyzip', '>= 1.0.0'
 gem 'grocer'
 gem 'commander'

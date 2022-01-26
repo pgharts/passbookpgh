@@ -45,7 +45,7 @@ Gem::Specification.new do |s|
     "lib/rails/generators/passbook/config/config_generator.rb",
     "lib/rails/generators/passbook/config/templates/initializer.rb",
     "lib/utils/command_utils.rb",
-    "passbook.gemspec",
+    "passbookpgh.gemspec",
     "spec/data/icon.png",
     "spec/data/icon@2x.png",
     "spec/data/logo.png",
